@@ -122,7 +122,7 @@
                     <li>Project Work - CS8811</li>
                 </a>
                 <a href="./8thSemSubjects/CF.php" class="link">
-                    <li>CS8074 - Cyber Forensics</li>
+                    <li>Cyber Forensics - CS8074</li>
                 </a>
             </ul>
         </div>
