@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CS8381</title>
+    <title>CS3361</title>
     <style>
         .table-heading-container {
             font-size: 1.5rem;
@@ -73,7 +73,7 @@
     </a>
     <div class="table-heading-container">
 
-        <h1>Data Structures Laboratory - CS8381</h1>
+        <h1>Data Science Lab - CS3361</h1>
     </div>
     <div class="table-container">
         <hr>
@@ -82,7 +82,7 @@
             <h1>Lab Manual</h1>
             <hr>
             <div class="notes-content">
-                <a href="" class="link">
+                <a target="_blank" href="https://drive.google.com/file/d/19GeaL_KthpdxwP73pYGmBN6N9DGPIkbv/view?usp=sharing" class="link">
                     <p>Experiments</p>
                 </a>
             </div>

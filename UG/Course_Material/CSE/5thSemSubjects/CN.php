@@ -90,22 +90,21 @@
             <h1>Notes</h1>
             <hr>
             <div class="notes-content">
-                <a href="" class="link">
+                <a target='_blank' href="https://drive.google.com/file/d/1Hsjfwo-CF2oz6ZaQCXe-0DRkqBYTngF5/view?usp=share_link" class="link">
                     <p>Unit-1</p>
                 </a>
-                <a href="" class="link">
+                <a target='_blank' href="https://drive.google.com/file/d/16KYjn-iF8P72dfQRZ2f18DmMJJI52gs4/view?usp=share_link" class="link">
                     <p>Unit-2</p>
                 </a>
-                <a href="" class="link">
+                <a target='_blank' href="https://drive.google.com/file/d/1HUpUJ14yA1pevaLIX_9JOMhcD3G51zCB/view?usp=share_link" class="link">
                     <p>Unit-3</p>
                 </a>
-                <a href="" class="link">
+                <a target='_blank' href="https://drive.google.com/file/d/1i0rFrPlxXXe_eld4jWJ8oDZ3PrtzpfvE/view?usp=share_link" class="link">
                     <p>Unit-4</p>
                 </a>
-                <a href="" class="link">
+                <a target='_blank' href="https://drive.google.com/file/d/1isnkRRT4xK0iiH_gW0g9r87nFQecdAkn/view?usp=share_link" class="link">
                     <p>Unit-5</p>
                 </a>
-
             </div>
             <hr>
         </div>
@@ -115,22 +114,21 @@
             <h1>Question Banks</h1>
             <hr>
             <div class="notes-content">
-                <a href="" class="link">
+                <a target='_blank' href="https://drive.google.com/file/d/1G_rDBMO7I_Z70Bn_dc0OGC2nHiUK_sAb/view?usp=share_link" class="link">
                     <p>Unit-1</p>
                 </a>
-                <a href="" class="link">
+                <a target='_blank' href="https://drive.google.com/file/d/1zURMD1gjQ4TZPWF1cXJUVNnqu3ov-DtZ/view?usp=share_link" class="link">
                     <p>Unit-2</p>
                 </a>
-                <a href="" class="link">
+                <a target='_blank' href="https://drive.google.com/file/d/1L0SfGR8sl95Xg3yx9cmdzeLbD5ffBjBy/view?usp=share_link" class="link">
                     <p>Unit-3</p>
                 </a>
-                <a href="" class="link">
+                <a target='_blank' href="https://drive.google.com/file/d/1h6B8mLT18ZqJwdW2lAdE6N2MAVZrcx7Q/view?usp=share_link" class="link">
                     <p>Unit-4</p>
                 </a>
-                <a href="" class="link">
+                <a target='_blank' href="https://drive.google.com/file/d/1zdu5iKKo077AZLmuY3nk3cXa0zI8az2C/view?usp=share_link" class="link">
                     <p>Unit-5</p>
                 </a>
-
             </div>
             <hr>
         </div>
@@ -165,19 +163,19 @@
             <h1>Youtube Links</h1>
             <hr>
             <div class="notes-content">
-                <a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" target="_blank" class="link">
+                <a href="" target="_blank" class="link">
                     <p>Unit-1</p>
                 </a>
-                <a target="_blank" href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" class="link">
+                <a target="_blank" href="" class="link">
                     <p>Unit-2</p>
                 </a>
-                <a target="_blank" href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" class="link">
+                <a target="_blank" href="" class="link">
                     <p>Unit-3</p>
                 </a>
-                <a target="_blank" href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" class="link">
+                <a target="_blank" href="" class="link">
                     <p>Unit-4</p>
                 </a>
-                <a target="_blank" href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" class="link">
+                <a target="_blank" href="" class="link">
                     <p>Unit-5</p>
                 </a>
 

@@ -83,7 +83,7 @@
             <h1>Lab Manual</h1>
             <hr>
             <div class="notes-content">
-                <a href="" class="link">
+                <a target="_blank" href="https://drive.google.com/file/d/1H6OvzI4fXA97tos6v0CY5wsfoZRMePGp/view?usp=share_link" class="link">
                     <p>Experiments</p>
                 </a>
             </div>

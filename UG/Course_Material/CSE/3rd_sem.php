@@ -118,44 +118,27 @@
                 <a href="https://gracecoe.org/doc/B.E.%20CSE.pdf" class="link">
                     <li>Syllabus</li>
                 </a>
-                <a href="./3rdSemSubjects/DM.php" class="link">
-                    <li>Discrete Mathematics - MA8351</li>
-                </a>
-                <a href="./3rdSemSubjects/DPSD.php" class="link">
-                    <li>Digital Principles and
-                        System Design - CS8351</li>
+                <a href="./3rdSemSubjects/DPCO.php" class="link">
+                    <li>Digital Principles and Computer Organization - CS3351</li>
                 </a>
                 <a href="./3rdSemSubjects/DS.php" class="link">
-                    <li>Data Structures - CS8391</li>
+                    <li>Data Structures - CS3301</li>
                 </a>
-                <a href="./3rdSemSubjects/OOP.php" class="link">
-                    <li>Object Oriented
-                        Programming - CS8392</li>
+                <a href="./3rdSemSubjects/FDS.php" class="link">
+                    <li>Foundations of Data Science - CS3352</li>
                 </a>
             </ul>
         </div>
         <div class="sem-right">
             <ul>
-                <a href="./3rdSemSubjects/CE.php" class="link">
-                    <li>Communication
-                        Engineering - EC8395</li>
+                <a href="./3rdSemSubjects/OOP.php" class="link">
+                    <li>Object Oriented Programming - CS3391</li>
+                </a>
+                <a href="./3rdSemSubjects/DM.php" class="link">
+                    <li>Discrete Mathematics - MA3354</li>
                 </a>
                 <a href="./3rdSemSubjects/DS_Lab.php" class="link">
-                    <li>Data Structures
-                        Laboratory - CS8381</li>
-                </a>
-                <a href="./3rdSemSubjects/OOP_Lab.php" class="link">
-                    <li>Object Oriented
-                        Programming Laboratory - CS8383</li>
-                </a>
-                <a href="./3rdSemSubjects/DPSD_Lab.php" class="link">
-                    <li>Digital Systems
-                        Laboratory - CS8382</li>
-                </a>
-                <a href="#" class="link">
-                    <li>Interpersonal
-                        Skills/Listening
-                        &Speaking - HS8381</li>
+                    <li>Data Science Lab - CS3361</li>
                 </a>
             </ul>
         </div>

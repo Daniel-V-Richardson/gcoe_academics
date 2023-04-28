@@ -118,10 +118,12 @@
                 <a href="https://gracecoe.org/doc/B.E.%20CSE.pdf" class="link">
                     <li>Syllabus</li>
                 </a>
-                <a href="#" class="link">
+                <a href="./8thSemSubjects/PW.php" class="link">
                     <li>Project Work - CS8811</li>
                 </a>
-
+                <a href="./8thSemSubjects/CF.php" class="link">
+                    <li>CS8074 - Cyber Forensics</li>
+                </a>
             </ul>
         </div>
         <!-- <div class="sem-right">

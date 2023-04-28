@@ -129,16 +129,22 @@
                 <a href="./7thSemSubjects/CC.php" class="link">
                     <li>Cloud Computing - CS8791</li>
                 </a>
-                <a href="./7thSemSubjects/CC_Lab.php" class="link">
-                    <li>Cloud Computing
-                        Laboratory - CS8711</li>
-                </a>
             </ul>
         </div>
         <div class="sem-right">
             <ul>
                 <a href="./7thSemSubjects/S_Lab.php" class="link">
                     <li>Security Laboratory - IT8761</li>
+                </a>
+                <a href="./7thSemSubjects/S_Lab.php" class="link">
+                    <li>Diasater Management - GE8071</li>
+                </a>
+                <a href="./7thSemSubjects/S_Lab.php" class="link">
+                    <li>Energy Technology - OCH752</li>
+                </a>
+                <a href="./7thSemSubjects/CC_Lab.php" class="link">
+                    <li>Cloud Computing
+                        Laboratory - CS8711</li>
                 </a>
             </ul>
         </div>
