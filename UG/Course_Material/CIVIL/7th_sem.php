@@ -130,9 +130,18 @@
                         Harbour
                         Engineering - CE8702</li>
                 </a>
-                <a href="./7thSemSubjects/SD&D.php" class="link">
-                    <li>Structural Design
-                        and Drawing - CE8703</li>
+                <a href="./7thSemSubjects/TQM.php" class="link">
+                    <li>Total Quality Management - GE3752</li>
+                </a>
+            </ul>
+        </div>
+        <div class="sem-right">
+            <ul>
+                <a href="./7thSemSubjects/SDD.php" class="link">
+                    <li>Structural Design and Drawing Syllabus - CE8703</li>
+                </a>
+                <a href="./7thSemSubjects/CC&II.php" class="link">
+                    <li>Climate Change And Its Impact - OG1751</li>
                 </a>
                 <a href="#" class="link">
                     <li>Creative and
@@ -140,10 +149,6 @@
                         (Activity Based -
                         Subject Related) - CE8711</li>
                 </a>
-            </ul>
-        </div>
-        <div class="sem-right">
-            <ul>
                 <a href="#" class="link">
                     <li>Industrial Training
                         (4 weeks During

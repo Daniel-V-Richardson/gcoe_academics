@@ -118,42 +118,24 @@
                 <a href="../../../assets/doc/Syllabus/CIVIL/B.E.Civil.pdf" class="link">
                     <li>Syllabus</li>
                 </a>
-                <a href="./3rdSemSubjects/T&PDE.php" class="link">
-                    <li>Transforms and Partial
-                        Differential Equations - MA8353</li>
-                </a>
-                <a href="./3rdSemSubjects/SOM1.php" class="link">
-                    <li>Strength of
-                        Materials I - CE8301</li>
-                </a>
                 <a href="./3rdSemSubjects/FM.php" class="link">
-                    <li>Fluid Mechanics - CE8302</li>
+                    <li>Fluid Mechanics - CE3301</li>
                 </a>
-                <a href="./3rdSemSubjects/S.php" class="link">
-                    <li>Surveying - CE8351</li>
+                <a href="./3rdSemSubjects/CMT.php" class="link">
+                    <li>Construction Materials and Technology - CE3302</li>
                 </a>
             </ul>
         </div>
         <div class="sem-right">
             <ul>
-                <a href="./3rdSemSubjects/CM.php" class="link">
-                    <li>Construction
-                        Materials - CE8391</li>
+                <a href="./3rdSemSubjects/TPDE.php" class="link">
+                    <li>Transforms and Partial Differential Equations - MA3351</li>
                 </a>
-                <a href="./3rdSemSubjects/EG.php" class="link">
-                    <li>Engineering Geology - CE8392</li>
+                <a href="./3rdSemSubjects/WSWE.php" class="link">
+                    <li>Water Supply and Wastewater Engineering - CE3303</li>
                 </a>
-                <a href="./3rdSemSubjects/CM_Lab.php" class="link">
-                    <li>Construction Materials
-                        Laboratory - CE8311</li>
-                </a>
-                <a href="./3rdSemSubjects/S_Lab.php" class="link">
-                    <li>Surveying Laboratory - CE8361</li>
-                </a>
-                <a href="#" class="link">
-                    <li>Interpersonal
-                        Skills/Listening
-                        &Speaking - HS8381</li>
+                <a href="./3rdSemSubjects/SL.php" class="link">
+                    <li>Surveying and Levelling - CE3351</li>
                 </a>
             </ul>
         </div>

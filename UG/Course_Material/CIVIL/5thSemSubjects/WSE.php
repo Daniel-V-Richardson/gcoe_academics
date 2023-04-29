@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MA8351</title>
+    <title>EN8491</title>
     <style>
         .table-heading-container {
             font-size: 1.5rem;
@@ -81,8 +81,7 @@
     </a>
     <div class="table-heading-container">
 
-        <h1>Water Supply
-            Engineering - EN8491</h1>
+        <h1>Water Supply Engineering - EN8491</h1>
     </div>
     <div class="table-container">
         <hr>
@@ -91,19 +90,19 @@
             <h1>Notes</h1>
             <hr>
             <div class="notes-content">
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1A4qyb6y1j-0opp83q75w1hFdTrRB--5F/view?usp=share_link" class="link">
                     <p>Unit-1</p>
                 </a>
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1_Ur1NzK--ZqU4pYrUdCkjLgiPF79l7jT/view?usp=share_link" class="link">
                     <p>Unit-2</p>
                 </a>
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1Fzeh6RBNuu2BOzaGgjIpnJSjgw-yWwlA/view?usp=share_link" class="link">
                     <p>Unit-3</p>
                 </a>
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1l197rfA_QWmpSXq5vayD3SNni_nemgB2/view?usp=share_link" class="link">
                     <p>Unit-4</p>
                 </a>
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1rzzln2MyeXzsdTn1UGFW8cfZguj3d2Ib/view?usp=share_link" class="link">
                     <p>Unit-5</p>
                 </a>
 
@@ -116,22 +115,9 @@
             <h1>Question Banks</h1>
             <hr>
             <div class="notes-content">
-                <a href="" class="link">
-                    <p>Unit-1</p>
+                <a target='_block' href="https://drive.google.com/file/d/1kXIgeV-X3KFucKKh6kftEXASgByt1f3U/view?usp=share_link" class="link">
+                    <p>-</p><p>-</p><p>Link</p><p>-</p><p>-</p>
                 </a>
-                <a href="" class="link">
-                    <p>Unit-2</p>
-                </a>
-                <a href="" class="link">
-                    <p>Unit-3</p>
-                </a>
-                <a href="" class="link">
-                    <p>Unit-4</p>
-                </a>
-                <a href="" class="link">
-                    <p>Unit-5</p>
-                </a>
-
             </div>
             <hr>
         </div>
@@ -166,22 +152,21 @@
             <h1>Youtube Links</h1>
             <hr>
             <div class="notes-content">
-                <a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" target="_blank" class="link">
+                <a target="_blank" href="" class="link">
                     <p>Unit-1</p>
                 </a>
-                <a target="_blank" href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" class="link">
+                <a target="_blank" href="" class="link">
                     <p>Unit-2</p>
                 </a>
-                <a target="_blank" href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" class="link">
+                <a target="_blank" href="" class="link">
                     <p>Unit-3</p>
                 </a>
-                <a target="_blank" href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" class="link">
+                <a target="_blank" href="" class="link">
                     <p>Unit-4</p>
                 </a>
-                <a target="_blank" href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" class="link">
+                <a target="_blank" href="" class="link">
                     <p>Unit-5</p>
                 </a>
-
             </div>
             <hr>
         </div>

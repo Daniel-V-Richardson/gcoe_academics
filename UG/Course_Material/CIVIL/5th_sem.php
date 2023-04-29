@@ -126,32 +126,28 @@
                 <a href="./5thSemSubjects/SA1.php" class="link">
                     <li>Structural Analysis I - CE8502</li>
                 </a>
-                <a href="./5thSemSubjects/WSE.php" class="link">
-                    <li>Water Supply
-                        Engineering - EN8491</li>
-                </a>
                 <a href="./5thSemSubjects/FE.php" class="link">
                     <li>Foundation
                         Engineering - CE8591</li>
                 </a>
-
+                <a href="./5thSemSubjects/WSE.php" class="link">
+                    <li>Water Supply
+                        Engineering - EN8491</li>
+                </a>
             </ul>
         </div>
         <div class="sem-right">
             <ul>
-                <a href="./5thSemSubjects/SM_Lab.php" class="link">
-                    <li>Soil Mechanics
-                        Laboratory - CE8511</li>
+                <a href="./5thSemSubjects/EA.php" class="link">
+                    <li>Environment and Agriculture - OAI551</li>
                 </a>
-                <a href="./5thSemSubjects/W&WWA_Lab.php" class="link">
-                    <li>Water and Waste
-                        Water Analysis
-                        Laboratory - CE8512</li>
+                <a href="./5thSemSubjects/DM.php" class="link">
+                    <li>Diasater Management - GE8071</li>
                 </a>
                 <a href="#" class="link">
                     <li>Survey Camp
                         (2 weeks –During IV
-                        Semester) - CE8513</li>
+                        Semester) - CE3512</li>
                 </a>
             </ul>
         </div>
