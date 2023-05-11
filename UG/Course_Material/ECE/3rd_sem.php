@@ -118,38 +118,36 @@
                 <a href="../../../assets/doc/Syllabus/ECE/Syllabus_ECE2017.pdf" class="link">
                     <li>Syllabus</li>
                 </a>
-                <a href="./3rdSemSubjects/LA&PDE.php" class="link">
-                    <li>Linear Algebra and Partial Differential Equations - MA8352</li>
+                <a href="./3rdSemSubjects/RP&LA.php" class="link">
+                    <li>Random Processes and Linear Algebra - MA3355</li>
                 </a>
-                <a href="./3rdSemSubjects/FDS.php" class="link">
-                    <li>Fundamentals of Data Structures In C - EC8393</li>
+                <a href="./3rdSemSubjects/C&DS.php" class="link">
+                    <li>C Programming and Data Structures - CS3353</li>
                 </a>
-                <a href="./3rdSemSubjects/EC1.php" class="link">
-                    <li>Electronic Circuits- I - EC8351</li>
+                <a href="./3rdSemSubjects/S&S.php" class="link">
+                    <li>Signals and Systems - EC3354</li>
                 </a>
-                <a href="./3rdSemSubjects/SS.php" class="link">
-                    <li>Signals and Systems - EC8352</li>
+                <a href="./3rdSemSubjects/ED&C.php" class="link">
+                    <li>Electronic Devices and Circuits - EC3353</li>
                 </a>
             </ul>
         </div>
         <div class="sem-right">
             <ul>
-                <a href="./3rdSemSubjects/DE.php" class="link">
-                    <li>Digital Electronics - EC8392</li>
+                <a href="./3rdSemSubjects/CS.php" class="link">
+                    <li>Control Systems - EC3351</li>
                 </a>
-                <a href="./3rdSemSubjects/CSE.php" class="link">
-                    <li>Control Systems Engineering - EC8391</li>
+                <a href="./3rdSemSubjects/DSD.php" class="link">
+                    <li>Digital Systems Design - EC3352</li>
                 </a>
-                <a href="./3rdSemSubjects/FDS_Lab.php" class="link">
-                    <li>Fundamentals of Data Structures in C Laboratory - EC8381</li>
+                <a href="./3rdSemSubjects/ED&C_Lab.php" class="link">
+                    <li>Electronic Devices and Circuits Laboratory - EC3361</li>
                 </a>
-                <a href="./3rdSemSubjects/A&DC_Lab.php" class="link">
-                    <li>Analog and Digital Circuits Laboratory - EC8361</li>
+                <a href="./3rdSemSubjects/C&DS_Lab.php" class="link">
+                    <li>C Programming and Data Structures Laboratory - CS3362</li>
                 </a>
                 <a href="#" class="link">
-                    <li>Interpersonal
-                        Skills/Listening
-                        &Speaking - HS8381</li>
+                    <li>Professional Development - GE3361</li>
                 </a>
             </ul>
         </div>

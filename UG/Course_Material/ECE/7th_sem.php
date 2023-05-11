@@ -124,11 +124,8 @@
                 <a href="./7thSemSubjects/OC.php" class="link">
                     <li>Optical Communication - EC8751</li>
                 </a>
-                <a href="./7thSemSubjects/E&RTS.php" class="link">
-                    <li>Embedded and Real Time Systems - EC8791</li>
-                </a>
-                <a href="./7thSemSubjects/AH&WSN.php" class="link">
-                    <li>Ad hoc and Wireless Sensor Networks - EC8702</li>
+                <a href="./7thSemSubjects/TE.php" class="link">
+                    <li>Transducer Engineering - OIC751</li>
                 </a>
             </ul>
         </div>
@@ -136,9 +133,6 @@
             <ul>
                 <a href="./7thSemSubjects/E_Lab.php" class="link">
                     <li>Embedded Laboratory - EC8711</li>
-                </a>
-                <a href="./7thSemSubjects/AC_Lab.php" class="link">
-                    <li>Advanced Communication Laboratory - EC8761</li>
                 </a>
             </ul>
         </div>

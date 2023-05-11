@@ -32,3 +32,13 @@ Missing google drive for Project Work - CS8811
 Notes for Unit-4 missing in google drive
 ## 7thSemSubjects > CC&II.php
 QB missing in google drive
+
+
+# 🔷 UG > Course_Material > ECE >
+## 3rdSemSubjects > CS.php
+QB missing in google drive
+
+## Google Drive:
+~ What's EC-I subject in sem3?
+~ sem5 subjects are from regulation-2017 (need an update)
+    Regulation-2021 subjects are EC3501, EC3552, EC3551, EC3561
