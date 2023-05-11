@@ -124,7 +124,7 @@
                 <a href="./5thSemSubjects/DOME.php" class="link">
                     <li>Design of Machine Elements - ME8593</li>
                 </a>
-                <a href="./5thSemSubjects/M&M.php" class="link">
+                <a href="./5thSemSubjects/M_M.php" class="link">
                     <li>Metrology and Measurements - ME8501</li>
                 </a>
                 <a href="./5thSemSubjects/DOM.php" class="link">
@@ -135,14 +135,14 @@
         </div>
         <div class="sem-right">
             <ul>
-                <a href="./5thSemSubjects/K&D_Lab.php" class="link">
+                <a href="./5thSemSubjects/K_D_Lab.php" class="link">
                     <li>Kinematics and Dynamics
                         Laboratory - ME8511</li>
                 </a>
                 <a href="./5thSemSubjects/TE_Lab.php" class="link">
                     <li>Thermal Engineering Laboratory - ME8512</li>
                 </a>
-                <a href="./5thSemSubjects/M&M_Lab.php" class="link">
+                <a href="./5thSemSubjects/M_M_Lab.php" class="link">
                     <li>Metrology and Measurements
                         Laboratory - ME8513</li>
                 </a>

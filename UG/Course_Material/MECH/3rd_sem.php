@@ -118,37 +118,33 @@
                 <a href="../../../assets/doc/Syllabus/MECH/B.E. Mech.pdf" class="link">
                     <li>Syllabus</li>
                 </a>
-                <a href="./3rdSemSubjects/T&PDE.php" class="link">
-                    <li>Transforms and Partial Differential
-                        Equations - MA8353</li>
+                <a href="./3rdSemSubjects/T_PDE.php" class="link">
+                    <li>Transforms and Partial Differential Equations  - MA3351</li>
                 </a>
-                <a href="./3rdSemSubjects/ET.php" class="link">
-                    <li>Engineering Thermodynamics - ME8391</li>
+                <a href="./3rdSemSubjects/EM.php" class="link">
+                    <li>Engineering Mechanics - ME3351</li>
                 </a>
                 <a href="./3rdSemSubjects/FM&M.php" class="link">
-                    <li>Fluid Mechanics and Machinery - CE8394</li>
+                    <li>Fluid Mechanics and Machinery - CE3391</li>
                 </a>
-                <a href="./3rdSemSubjects/MT1.php" class="link">
-                    <li>Manufacturing Technology - I - ME8351</li>
+                <a href="./3rdSemSubjects/MP.php" class="link">
+                    <li>Manufacturing Processes - ME3393</li>
                 </a>
             </ul>
         </div>
         <div class="sem-right">
             <ul>
-                <a href="./3rdSemSubjects/MT1_Lab.php" class="link">
-                    <li>Manufacturing Technology
-                        Laboratory - I - ME8361</li>
+                <a href="./3rdSemSubjects/EM&M.php" class="link">
+                    <li>Engineering Materials and Metallurgy - ME3392</li>
                 </a>
                 <a href="./3rdSemSubjects/CAMD_Lab.php" class="link">
-                    <li>Computer Aided Machine Drawing - ME8381</li>
+                    <li>Computer Aided Machine Drawing - ME3381</li>
                 </a>
-                <a href="./3rdSemSubjects/EE_Lab.php" class="link">
-                    <li>Electrical Engineering Laboratory - EE8361</li>
+                <a href="./3rdSemSubjects/ET.php" class="link">
+                    <li>Engineering Thermodynamics - ME3391</li>
                 </a>
                 <a href="#" class="link">
-                    <li>Interpersonal
-                        Skills/Listening
-                        &Speaking - HS8381</li>
+                    <li>Professional Development - GE3361</li>
                 </a>
             </ul>
         </div>

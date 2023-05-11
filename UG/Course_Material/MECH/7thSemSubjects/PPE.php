@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MA8351</title>
+    <title>ME8792</title>
     <style>
         .table-heading-container {
             font-size: 1.5rem;
@@ -90,19 +90,19 @@
             <h1>Notes</h1>
             <hr>
             <div class="notes-content">
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1_8EAoqei2KD9UIWTZzewvWSFRrGrIn06/view?usp=share_link" class="link">
                     <p>Unit-1</p>
                 </a>
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/19gEX3kHWgyVg9uM_xJlJphyozxLcXDUu/view?usp=share_link" class="link">
                     <p>Unit-2</p>
                 </a>
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1U00YYcNPylGvucoGw9H63xIiAJVkrNFB/view?usp=share_link" class="link">
                     <p>Unit-3</p>
                 </a>
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1txQFa5XtuiNq21QfDxDR7W3CdpGpNsy-/view?usp=share_link" class="link">
                     <p>Unit-4</p>
                 </a>
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1TM_Id8E8pCRNzJszVv68luuYuIXtydsR/view?usp=share_link" class="link">
                     <p>Unit-5</p>
                 </a>
 
@@ -114,23 +114,13 @@
             <hr>
             <h1>Question Banks</h1>
             <hr>
-            <div class="notes-content">
-                <a href="" class="link">
-                    <p>Unit-1</p>
-                </a>
-                <a href="" class="link">
-                    <p>Unit-2</p>
-                </a>
-                <a href="" class="link">
-                    <p>Unit-3</p>
-                </a>
-                <a href="" class="link">
-                    <p>Unit-4</p>
-                </a>
-                <a href="" class="link">
-                    <p>Unit-5</p>
-                </a>
-
+            <div class="notes-content"><p>-</p>
+                <a target='_block' href="https://drive.google.com/file/d/1TM_Id8E8pCRNzJszVv68luuYuIXtydsR/view?usp=share_link" class="link">
+                    <p>Part-A</p>
+                </a><p>-</p>
+                <a target='_block' href="https://drive.google.com/file/d/1R06A52aUXPVKhuss7yFaKWJXBLYhRDo3/view?usp=share_link" class="link">
+                    <p>Part-B</p>
+                </a><p>-</p>
             </div>
             <hr>
         </div>
@@ -165,19 +155,19 @@
             <h1>Youtube Links</h1>
             <hr>
             <div class="notes-content">
-                <a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" target="_blank" class="link">
+            <a href="" target="_blank" class="link">
                     <p>Unit-1</p>
                 </a>
-                <a target="_blank" href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" class="link">
+                <a target="_blank" href="" class="link">
                     <p>Unit-2</p>
                 </a>
-                <a target="_blank" href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" class="link">
+                <a target="_blank" href="" class="link">
                     <p>Unit-3</p>
                 </a>
-                <a target="_blank" href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" class="link">
+                <a target="_blank" href="" class="link">
                     <p>Unit-4</p>
                 </a>
-                <a target="_blank" href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" class="link">
+                <a target="_blank" href="" class="link">
                     <p>Unit-5</p>
                 </a>
 

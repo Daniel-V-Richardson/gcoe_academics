@@ -121,26 +121,25 @@
                 <a href="./7thSemSubjects/PPE.php" class="link">
                     <li>Power Plant Engineering - ME8792</li>
                 </a>
-                <a href="./7thSemSubjects/PP&CE.php" class="link">
+                <a href="./7thSemSubjects/PP_CE.php" class="link">
                     <li>Process Planning and Cost
                         Estimation - ME8793</li>
                 </a>
                 <a href="./7thSemSubjects/M.php" class="link">
                     <li>Mechatronics - ME8791</li>
                 </a>
-                <a href="./7thSemSubjects/S&A_Lab.php" class="link">
-                    <li>Simulation and Analysis
-                        Laboratory - ME8711</li>
+                <a href="./7thSemSubjects/UMP.php" class="link">
+                    <li>Unconventional Machining Processes - ME8073</li>
                 </a>
             </ul>
         </div>
         <div class="sem-right">
             <ul>
-                <a href="./7thSemSubjects/M_Lab.php" class="link">
-                    <li>Mechatronics Laboratory - ME8781</li>
+                <a href="./7thSemSubjects/NDT.php" class="link">
+                    <li>Non Destructive Testing and Evaluation - ME8097</li>
                 </a>
-                <a href="#" class="link">
-                    <li>Technical Seminar - ME8712</li>
+                <a href="./7thSemSubjects/R.php" class="link">
+                    <li>Robotics - OIE551</li>
                 </a>
             </ul>
         </div>
