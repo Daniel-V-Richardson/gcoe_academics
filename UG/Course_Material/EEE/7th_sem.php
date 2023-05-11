@@ -130,11 +130,19 @@
                     <li>Renewable Energy
                         Systems - EE8703</li>
                 </a>
-
+                <a href="./7thSemSubjects/DM.php" class="link">
+                    <li>Disaster Management - GE8071</li>
+                </a>
             </ul>
         </div>
         <div class="sem-right">
             <ul>
+                <a href="./7thSemSubjects/TQM.php" class="link">
+                    <li>Total Quality Management - GE8077</li>
+                </a>
+                <a href="./7thSemSubjects/AM&I.php" class="link">
+                    <li>Analytical Methods and Instrumentation - OBT751</li>
+                </a>
                 <a href="./7thSemSubjects/PSS_Lab.php" class="link">
                     <li>Power System
                         Simulation Laboratory - EE8711</li>

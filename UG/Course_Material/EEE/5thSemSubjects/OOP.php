@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MA8351</title>
+    <title>CS8392</title>
     <style>
         .table-heading-container {
             font-size: 1.5rem;
@@ -81,8 +81,7 @@
     </a>
     <div class="table-heading-container">
 
-        <h1>Object Oriented
-            Programming - CS8392</h1>
+        <h1>Object Oriented Programming - CS8392</h1>
     </div>
     <div class="table-container">
         <hr>
@@ -91,19 +90,19 @@
             <h1>Notes</h1>
             <hr>
             <div class="notes-content">
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1FuV_xymwT32YHu8g-yyxpwBm40GMiQuv/view?usp=share_link" class="link">
                     <p>Unit-1</p>
                 </a>
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/105Ux7KBr7c1kW6m830u_qarIF_S0APBn/view?usp=share_link" class="link">
                     <p>Unit-2</p>
                 </a>
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1ZIpSB8k75ms_fQz5Za0DMIFPV4Jc_Q0h/view?usp=share_link" class="link">
                     <p>Unit-3</p>
                 </a>
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1MrS1x3zY0qgzEEL3GQ5hwLZLTZXTpvm3/view?usp=share_link" class="link">
                     <p>Unit-4</p>
                 </a>
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1VlGAOrTGc_QklOKiIXX5UBlqOJoFnRR7/view?usp=share_link" class="link">
                     <p>Unit-5</p>
                 </a>
 
@@ -116,19 +115,19 @@
             <h1>Question Banks</h1>
             <hr>
             <div class="notes-content">
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1SDVCfA-f7guKWcznwJS140ur01PQKdAb/view?usp=share_link" class="link">
                     <p>Unit-1</p>
                 </a>
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1k3D5GiInYQZviffZuVKvN8bmFoQUtr8Q/view?usp=share_link" class="link">
                     <p>Unit-2</p>
                 </a>
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1CtL0Qoj69SvPItKNaIHXxyBq1KIDB7aV/view?usp=share_link" class="link">
                     <p>Unit-3</p>
                 </a>
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1W0vlcddgedMLN3hJV8zgi_KJz-sMfXPH/view?usp=share_link" class="link">
                     <p>Unit-4</p>
                 </a>
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1WtOXMfvWYS0ND41A1MSLUL0mfXMcTkUs/view?usp=share_link" class="link">
                     <p>Unit-5</p>
                 </a>
 
@@ -166,19 +165,19 @@
             <h1>Youtube Links</h1>
             <hr>
             <div class="notes-content">
-                <a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" target="_blank" class="link">
+            <a href="" target="_blank" class="link">
                     <p>Unit-1</p>
                 </a>
-                <a target="_blank" href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" class="link">
+                <a target="_blank" href="" class="link">
                     <p>Unit-2</p>
                 </a>
-                <a target="_blank" href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" class="link">
+                <a target="_blank" href="" class="link">
                     <p>Unit-3</p>
                 </a>
-                <a target="_blank" href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" class="link">
+                <a target="_blank" href="" class="link">
                     <p>Unit-4</p>
                 </a>
-                <a target="_blank" href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" class="link">
+                <a target="_blank" href="" class="link">
                     <p>Unit-5</p>
                 </a>
 

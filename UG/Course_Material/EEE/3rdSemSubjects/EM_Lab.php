@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MA8351</title>
+    <title>EE3311</title>
     <style>
         .table-heading-container {
             font-size: 1.5rem;
@@ -74,8 +74,7 @@
     </a>
     <div class="table-heading-container">
 
-        <h1>Electrical Machines
-            Laboratory - I - EE8311</h1>
+        <h1>Electrical  Machines Laboratory - I  - EE3311</h1>
     </div>
     <div class="table-container">
         <hr>
@@ -84,7 +83,7 @@
             <h1>Lab Manual</h1>
             <hr>
             <div class="notes-content">
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1Xj67ur2cMdi1LjRz3eLLH_IozoaI_NJ8/view?usp=share_link" class="link">
                     <p>Experiments</p>
                 </a>
             </div>

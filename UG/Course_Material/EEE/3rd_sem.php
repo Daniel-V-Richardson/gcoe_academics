@@ -118,38 +118,39 @@
                 <a href="../../../assets/doc/Syllabus/EEE/B.E.EEE.pdf" class="link">
                     <li>Syllabus</li>
                 </a>
-                <a href="./3rdSemSubjects/T&PDE.php" class="link">
-                    <li>Transforms and Partial
-                        Differential Equations - MA8353</li>
+                <a href="./3rdSemSubjects/P&CF.php" class="link">
+                    <li>Probability and Complex Functions - MA3303</li>
+                </a>
+                <a href="./3rdSemSubjects/EF.php" class="link">
+                    <li>Electromagnetic Fields - EE3301</li>
                 </a>
                 <a href="./3rdSemSubjects/DLC.php" class="link">
-                    <li>Digital Logic Circuits - EE8351</li>
+                    <li>Digital Logic Circuits - EE3302</li>
                 </a>
-                <a href="./3rdSemSubjects/ET.php" class="link">
-                    <li>Electromagnetic
-                        Theory - EE8391</li>
+                <a href="./3rdSemSubjects/ED&C.php" class="link">
+                    <li>Electron Devices and Circuits - EC3301</li>
                 </a>
                 <a href="./3rdSemSubjects/EM1.php" class="link">
-                    <li>Electrical Machines - I - EE8301</li>
+                    <li>Electrical  Machines - I  - EE3303</li>
                 </a>
             </ul>
         </div>
         <div class="sem-right">
             <ul>
-                <a href="./3rdSemSubjects/ED&C.php" class="link">
-                    <li>Electron Devices and
-                        Circuitsg - EC8353</li>
+                <a href="./3rdSemSubjects/CP&DS.php" class="link">
+                    <li>C Programming and Data Structures - CS3353</li>
                 </a>
-                <a href="./3rdSemSubjects/PPE.php" class="link">
-                    <li>Power Plant
-                        Engineering - ME8792</li>
-                </a>
-                <a href="./3rdSemSubjects/E_Lab.php" class="link">
-                    <li>Electronics Laboratory - EC8311</li>
+                <a href="./3rdSemSubjects/ED&C_Lab.php" class="link">
+                    <li>Electronic Devices and Circuits Laboratory - EC3311</li>
                 </a>
                 <a href="./3rdSemSubjects/EM_Lab.php" class="link">
-                    <li>Electrical Machines
-                        Laboratory - I - EE8311</li>
+                    <li>Electrical  Machines Laboratory - I  - EE3311</li>
+                </a>
+                <a href="./3rdSemSubjects/CP&DS_Lab.php" class="link">
+                    <li>C Programming and Data Structures Laboratory - CS3362</li>
+                </a>
+                <a href="#" class="link">
+                    <li>Professional Development - GE3361</li>
                 </a>
             </ul>
         </div>

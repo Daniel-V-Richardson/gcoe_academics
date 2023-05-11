@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CS8381</title>
+    <title>EE8711</title>
     <style>
         .table-heading-container {
             font-size: 1.5rem;
@@ -83,7 +83,7 @@
             <h1>Lab Manual</h1>
             <hr>
             <div class="notes-content">
-                <a href="" class="link">
+                <a target='_block' href="https://drive.google.com/file/d/1S5NtZxah50F1BS-iYT1XMlGm7YpOqXaI/view?usp=share_link" class="link">
                     <p>Experiments</p>
                 </a>
             </div>

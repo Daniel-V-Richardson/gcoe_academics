@@ -138,23 +138,16 @@
         </div>
         <div class="sem-right">
             <ul>
+            <a href="./5thSemSubjects/BBI.php" class="link">
+                    <li>Basic of Biomedical Instrumentation - OMD551</li>
+                </a>
                 <a href="./5thSemSubjects/OOP.php" class="link">
-                    <li>Object Oriented
-                        Programming - CS8392</li>
+                    <li>Object Oriented Programming - CS8392</li>
                 </a>
                 <a href="./5thSemSubjects/C&I_Lab.php" class="link">
                     <li>Control and
                         Instrumentation
                         Laboratory - EE8511</li>
-                </a>
-                <a href="#" class="link">
-                    <li>Professional
-                        Communication - HS8581</li>
-                </a>
-                <a href="./5thSemSubjects/OOP_Lab.php" class="link">
-                    <li>Object Oriented
-                        Programming
-                        Laboratory - CS8383</li>
                 </a>
             </ul>
         </div>

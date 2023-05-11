@@ -42,3 +42,14 @@ QB missing in google drive
 ~ What's EC-I subject in sem3?
 ~ sem5 subjects are from regulation-2017 (need an update)
     Regulation-2021 subjects are EC3501, EC3552, EC3551, EC3561
+
+# 🔷 UG > Course_Material > EEE >
+## 3rdSemSubjects > ED&C.php
+Notes for unit-4 missing in Google Drive
+QB for units-(1,3,4) missing in Google Drive
+
+## 3rdSemSubjects > P&CF.php
+QB for units-(4,5) missing in Google Drive
+
+## 5thSemSubjects > BBI.php
+QB missing in google drive
