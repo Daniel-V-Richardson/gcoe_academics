@@ -53,3 +53,14 @@ QB for units-(4,5) missing in Google Drive
 
 ## 5thSemSubjects > BBI.php
 QB missing in google drive
+
+# 🔷 UG > Course_Material > H_S >
+## 1stSemSubjects > EC.php
+Notes are not proper
+
+## 1st_sem.php >
+QB for English and Tamil not in google drive (Maybe they don't need)
+Study Materials for lab still not uploaded in google drive
+
+## 2nd_sem.php >
+Study materials not available in google drive

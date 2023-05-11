@@ -120,38 +120,13 @@
                 </a>
                 <a href="./2ndSemSubjects/PIC.php" class="link">
                     <li>Programming in C
-                        - CS8251</li>
-                </a>
-                <a href="./2ndSemSubjects/EM2.php" class="link">
-                    <li>Engineering
-                        Mathematics - II - MA8251</li>
-                </a>
-                <a href="./2ndSemSubjects/PFIS.php" class="link">
-                    <li>Physics for Information
-                        Science
-                        - PH8252</li>
-                </a>
-                <a href="./2ndSemSubjects/BEE&ME.php" class="link">
-                    <li>Basic Electrical,
-                        Electronics and
-                        Measurement
-                        Engineering - BE8255</li>
+                        - CS3251</li>
                 </a>
             </ul>
         </div>
         <div class="sem-right">
             <ul>
-                <a href="./2ndSemSubjects/ES.php" class="link">
-                    <li>Environmental Science - GE8291</li>
-                </a>
-                <a href="./2ndSemSubjects/EP_Lab.php" class="link">
-                    <li>Engineering Practices
-                        Laboratory - GE8261</li>
-                </a>
-                <a href="./2ndSemSubjects/CP_Lab.php" class="link">
-                    <li>C Programming
-                        Laboratory - CS8261</li>
-                </a>
+                <a></a>
             </ul>
         </div>
     </div>

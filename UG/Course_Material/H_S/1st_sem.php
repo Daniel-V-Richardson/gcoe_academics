@@ -118,36 +118,37 @@
                 <a href="https://gracecoe.org/doc/B.E.%20CSE.pdf" class="link">
                     <li>Syllabus</li>
                 </a>
-                <a href="./1stSemSubjects/EM1.php" class="link">
-                    <li>Engineering
-                        Mathematics - I
-                        - MA8151</li>
+                <a href="./1stSemSubjects/M&C.php" class="link">
+                    <li>Matrics and Calculus - MA3151</li>
                 </a>
                 <a href="./1stSemSubjects/EP.php" class="link">
-                    <li>Engineering Physics - PH8151</li>
+                    <li>Engineering Physics - PH3151</li>
                 </a>
                 <a href="./1stSemSubjects/EC.php" class="link">
-                    <li>Engineering Chemistry - CY8151</li>
+                    <li>Engineering Chemistry - CY3151</li>
                 </a>
-                <a href="./1stSemSubjects/PS&PP.php" class="link">
+                <a href="./1stSemSubjects/PS_PP.php" class="link">
                     <li>Problem Solving and
-                        Python Programming - GE8151</li>
+                        Python Programming - GE3151</li>
                 </a>
             </ul>
         </div>
         <div class="sem-right">
             <ul>
-                <a href="./1stSemSubjects/EG.php" class="link">
-                    <li>Engineering Graphics - GE8152</li>
+                <a href="./1stSemSubjects/HOT.php" class="link">
+                    <li>Heritage of Tamils - GE3152</li>
                 </a>
-                <a href="./1stSemSubjects/PS&PP_Lab.php" class="link">
+                <a href="./1stSemSubjects/PS_PP_Lab.php" class="link">
                     <li>Problem Solving and
                         Python Programming
                         Laboratory - GE8161</li>
                 </a>
-                <a href="./1stSemSubjects/P&C_Lab.php" class="link">
+                <a href="./1stSemSubjects/P_C_Lab.php" class="link">
                     <li>Physics and Chemistry
                         Laboratory - BS8161</li>
+                </a>
+                <a href="./1stSemSubjects/PE1.php" class="link">
+                    <li>Professional English I - HS3151</li>
                 </a>
             </ul>
         </div>
