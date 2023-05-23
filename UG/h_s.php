@@ -1835,6 +1835,38 @@
                     </div>
                 </div>
             </div>
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                    <div class="our-team">
+                        <div class="picture">
+                            <img class="img-fluid" src="../assets/doc/img/Anitta%20Jelin.pdf">
+                        </div>
+                        <div class="faculty-name">
+                            Mr.A.Anitta Jelin
+
+                            <h4 class="title">Assistant Professor</h4>
+                        </div>
+                        <div class="social">
+                            <a href="../assets/doc/img/Anitta%20Jelin.pdf" target="pdf" class="link">View Profile</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                    <div class="our-team">
+                        <div class="picture">
+                            <img class="img-fluid" src="../assets/doc/img/Rajeswari.jpg">
+                        </div>
+                        <div class="faculty-name">
+                            Mr.M.Rajeswari
+
+                            <h4 class="title">Assistant Professor</h4>
+                        </div>
+                        <div class="social">
+                            <a href="../assets/doc/img/Rajeswari.jpg" target="pdf" class="link">View Profile</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div class="popup-profile">
                 <span>
                     &times;
