@@ -1998,6 +1998,34 @@
                         </div>
                     </div>
                 </div>
+                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                    <div class="our-team">
+                        <div class="picture">
+                            <img class="../assets/doc/img/Princy Ranjani.pdf">
+                        </div>
+                        <div class="faculty-name">
+                            Mrs.J.Princy Ranjani
+                            <h4 class="title">Assistant Professor</h4>
+                        </div>
+                        <div class="social">
+                            <a href="../assets/doc/img/Princy Ranjani.pdf">View Profile</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                    <div class="our-team">
+                        <div class="picture">
+                            <img class="assets/doc/img/Banu%20Mathi.pdf">
+                        </div>
+                        <div class="faculty-name">
+                            Mrs.S.Banu Mathi
+                            <h4 class="title">Assistant Professor</h4>
+                        </div>
+                        <div class="social">
+                            <a href="assets/doc/img/Banu Mathi.pdf">View Profile</a>
+                        </div>
+                    </div>
+                </div>
 
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                     <div class="our-team">
