@@ -1995,6 +1995,56 @@
                     </div>
                 </div>
             </div>
+            
+             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                    <div class="our-team">
+                        <div class="picture">
+                            <img class="img-fluid" src="../assets/doc/img/Nivedhitha.jpeg">
+                        </div>
+                        <div class="faculty-name">
+                            Mrs.C. Nivedhitha
+                            <h4 class="title">Assistant Professor</h4>
+                        </div>
+                        <div class="social">
+                            <a href="../assets/doc/img/Nivedhitha.jpeg" target="pdf" class="link">View Profile</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                    <div class="our-team">
+                        <div class="picture">
+                            <img class="img-fluid" src="../assets/doc/img/Thomas Mary Sheeba.jpg">
+                        </div>
+                        <div class="faculty-name">
+                            Mrs.A.Thomas Mary Sheeba
+                            <h4 class="title">Assistant Professor</h4>
+                        </div>
+                        <div class="social">
+                            <a href="../assets/doc/img/Thomas Mary Sheeba.jpg" target="pdf" class="link">View Profile</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                    <div class="our-team">
+                        <div class="picture">
+                            <img class="img-fluid" src="../assets/doc/img/Kiruthika.pdf">
+                        </div>
+                        <div class="faculty-name">
+                            Mrs.S.Kiruthika
+                            <h4 class="title">Assistant Professor</h4>
+                        </div>
+                        <div class="social">
+                            <a href="../assets/doc/img/Kiruthika.pdf" target="pdf" class="link">View Profile</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <div class="popup-profile">
                 <span>
                     &times;
