@@ -2043,8 +2043,24 @@
                         </div>
                     </div>
                 </div>
+            </div><div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                    <div class="our-team">
+                        <div class="picture">
+                            <img class="img-fluid" src="../assets/doc/img/Subbulakshmi.JPG">
+                        </div>
+                        <div class="faculty-name">
+                            Mrs.N.Subbulakshmi
+                            <h4 class="title">Assistant Professor</h4>
+                        </div>
+                        <div class="social">
+                            <a href="../assets/doc/img/Subbulakshmi.JPG" target="pdf" class="link">View Profile</a>
+                        </div>
+                    </div>
+                </div>
             </div>
-
+            
+            
+            
             <div class="popup-profile">
                 <span>
                     &times;
