@@ -2347,6 +2347,21 @@
                     </div>
                 </div>
             </div>
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                    <div class="our-team">
+                        <div class="picture">
+                            <img class="img-fluid" src="../assets/doc/img/Chandy.jpg">
+                        </div>
+                        <div class="faculty-name">
+                            Mr.S.P.Chandy
+                            <h4 class="title">Professor</h4>
+                        </div>
+                        <div class="social">
+                            <!--<a href="../assets/doc/img/Chandy.jpg" target="pdf" class="link">View Profile</a>-->
+                        </div>
+                    </div>
+                </div>
+            </div>
             
             <div class="popup-profile">
                 <span>
